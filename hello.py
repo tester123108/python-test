@@ -1,5 +1,5 @@
 print("hello world")
-//comment
-//No lllsddidof
+#comment
+#No lllsddidof
 def secondary():
     print ("hi")
